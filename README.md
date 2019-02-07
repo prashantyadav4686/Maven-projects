@@ -1,5 +1,5 @@
-### TestNG project
-##### created a maven project.
+### TestNG Project
+#####  Maven Project.
 ###### Added dependency for TestNG in pom.xml.
 ###### Created a class named *Consecutiveletters* for main logic.
 ###### Created a class named *Testconsecutiveletters* for testing the logic made above (using annotations).
